@@ -3,110 +3,82 @@ import smtplib
 from datetime import datetime
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from email.mime.base import MIMEBase
+from email import encoders
 
-CATEGORY_CONFIG = {
-    "vi_mo_viet_nam": {
-        "label": "Vĩ mô Việt Nam",
-        "icon": "🏛️",
-        "color": "#1a5276",
-        "bg": "#d6eaf8",
-    },
-    "thi_truong": {
-        "label": "Thị trường",
-        "icon": "📈",
-        "color": "#1e8449",
-        "bg": "#d5f5e3",
-    },
-    "the_gioi": {
-        "label": "Thế giới",
-        "icon": "🌏",
-        "color": "#784212",
-        "bg": "#fdebd0",
-    },
-    "doanh_nghiep": {
-        "label": "Tin nổi bật từ doanh nghiệp",
-        "icon": "🏢",
-        "color": "#512e5f",
-        "bg": "#f5eef8",
-    },
+from doc_builder import build_docx
+
+CATEGORY_LABELS = {
+    "vi_mo_viet_nam": ("🏛", "Vĩ mô Việt Nam"),
+    "thi_truong":     ("📈", "Thị trường"),
+    "the_gioi":       ("🌏", "Thế giới"),
+    "doanh_nghiep":   ("🏢", "Doanh nghiệp"),
 }
 
 
-def build_html(summary: dict, date_str: str) -> str:
-    sections_html = ""
-    for key, cfg in CATEGORY_CONFIG.items():
+def _build_email_body(summary: dict, session: str, date_str: str) -> str:
+    """Email body đơn giản, liệt kê tiêu đề – nội dung chi tiết trong file đính kèm."""
+    rows = ""
+    for key, (icon, label) in CATEGORY_LABELS.items():
         items = summary.get(key, [])
         if not items:
             continue
+        titles_html = "".join(
+            f"<li style='margin:3px 0; font-size:13px;'>{it.get('title','')}</li>"
+            for it in items
+        )
+        rows += f"""
+        <tr>
+          <td style="padding:10px 16px; vertical-align:top; width:160px;
+                     font-weight:700; font-size:13px; color:#444;">
+            {icon} {label}
+          </td>
+          <td style="padding:10px 16px;">
+            <ul style="margin:0; padding-left:18px; color:#333;">
+              {titles_html}
+            </ul>
+          </td>
+        </tr>"""
 
-        items_html = ""
-        for idx, item in enumerate(items, 1):
-            title = item.get("title", "")
-            s = item.get("summary", "")
-            source = item.get("source", "")
-            url = item.get("url", "#")
-            items_html += f"""
-            <div style="margin-bottom:16px; padding:12px 16px; background:#fff;
-                        border-left:4px solid {cfg['color']}; border-radius:4px;
-                        box-shadow:0 1px 3px rgba(0,0,0,0.07);">
-              <div style="font-size:13px; color:#888; margin-bottom:4px;">
-                {idx}. <span style="font-weight:600; color:{cfg['color']};">{source}</span>
-              </div>
-              <a href="{url}" style="font-size:15px; font-weight:700; color:#222;
-                 text-decoration:none; line-height:1.4; display:block; margin-bottom:6px;">
-                {title}
-              </a>
-              <p style="margin:0; font-size:13.5px; color:#555; line-height:1.6;">{s}</p>
-              <a href="{url}" style="font-size:12px; color:{cfg['color']}; margin-top:6px;
-                 display:inline-block; text-decoration:none;">Đọc thêm →</a>
-            </div>"""
-
-        sections_html += f"""
-        <div style="margin-bottom:32px;">
-          <div style="background:{cfg['bg']}; border-radius:8px; padding:10px 18px;
-                      margin-bottom:14px; display:flex; align-items:center;">
-            <span style="font-size:22px; margin-right:10px;">{cfg['icon']}</span>
-            <h2 style="margin:0; font-size:18px; color:{cfg['color']}; font-weight:800;">
-              {cfg['label']}
-            </h2>
-          </div>
-          {items_html}
-        </div>"""
-
-    total = sum(len(summary.get(k, [])) for k in CATEGORY_CONFIG)
-
+    total = sum(len(summary.get(k, [])) for k in CATEGORY_LABELS)
     return f"""<!DOCTYPE html>
 <html lang="vi">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Bản tin tài chính {date_str}</title>
-</head>
-<body style="margin:0; padding:0; background:#f0f2f5; font-family:'Segoe UI',Arial,sans-serif;">
-  <div style="max-width:700px; margin:24px auto; background:#fff; border-radius:12px;
-              overflow:hidden; box-shadow:0 4px 20px rgba(0,0,0,0.1);">
+<head><meta charset="UTF-8"></head>
+<body style="margin:0;padding:0;background:#f0f2f5;font-family:'Segoe UI',Arial,sans-serif;">
+  <div style="max-width:640px;margin:20px auto;background:#fff;border-radius:10px;
+              overflow:hidden;box-shadow:0 4px 16px rgba(0,0,0,0.1);">
 
-    <!-- Header -->
-    <div style="background:linear-gradient(135deg,#1a3a6b 0%,#2e86c1 100%);
-                padding:28px 32px; text-align:center;">
-      <div style="font-size:28px; margin-bottom:6px;">📰</div>
-      <h1 style="margin:0; color:#fff; font-size:22px; font-weight:800; letter-spacing:0.5px;">
-        BẢN TIN TÀI CHÍNH CUỐI NGÀY
+    <div style="background:linear-gradient(135deg,#1a3a6b,#2e86c1);padding:24px 28px;text-align:center;">
+      <h1 style="margin:0;color:#fff;font-size:20px;font-weight:800;">
+        📰 BẢN TIN TÀI CHÍNH {session.upper()}
       </h1>
-      <p style="margin:8px 0 0; color:#afd8f8; font-size:14px;">{date_str} | {total} tin tổng hợp</p>
+      <p style="margin:6px 0 0;color:#afd8f8;font-size:13px;">{date_str} &nbsp;|&nbsp; {total} tin tổng hợp</p>
     </div>
 
-    <!-- Content -->
-    <div style="padding:28px 32px;">
-      {sections_html}
+    <div style="padding:18px 24px;">
+      <p style="margin:0 0 14px;font-size:13.5px;color:#555;">
+        Bản tin đầy đủ với nội dung tóm tắt và điểm chính được đính kèm trong file
+        <strong>Word (.docx)</strong>. Vui lòng mở file để đọc chi tiết.
+      </p>
+
+      <table style="width:100%;border-collapse:collapse;border:1px solid #e9ecef;border-radius:8px;overflow:hidden;">
+        <thead>
+          <tr style="background:#f8f9fa;">
+            <th style="padding:10px 16px;text-align:left;font-size:12px;color:#888;font-weight:600;border-bottom:1px solid #e9ecef;">
+              CHUYÊN MỤC
+            </th>
+            <th style="padding:10px 16px;text-align:left;font-size:12px;color:#888;font-weight:600;border-bottom:1px solid #e9ecef;">
+              CÁC TIN NỔI BẬT
+            </th>
+          </tr>
+        </thead>
+        <tbody>{rows}</tbody>
+      </table>
     </div>
 
-    <!-- Footer -->
-    <div style="background:#f8f9fa; padding:16px 32px; text-align:center;
-                border-top:1px solid #e9ecef;">
-      <p style="margin:0; font-size:12px; color:#aaa; line-height:1.6;">
-        Bản tin được tổng hợp tự động bởi AI từ các nguồn:
-        24hmoney.vn · cafef.vn · vietstock.vn · baochinhphu.vn<br>
+    <div style="background:#f8f9fa;padding:14px 24px;text-align:center;border-top:1px solid #e9ecef;">
+      <p style="margin:0;font-size:11px;color:#aaa;">
+        Tổng hợp tự động từ 24hmoney · cafef · vietstock · baochinhphu<br>
         Nội dung chỉ mang tính tham khảo, không phải khuyến nghị đầu tư.
       </p>
     </div>
@@ -115,9 +87,9 @@ def build_html(summary: dict, date_str: str) -> str:
 </html>"""
 
 
-def send_email(summary: dict):
-    sender = os.environ.get("EMAIL_SENDER")
-    password = os.environ.get("EMAIL_PASSWORD")
+def send_email(summary: dict, session: str = "Chiều"):
+    sender    = os.environ.get("EMAIL_SENDER")
+    password  = os.environ.get("EMAIL_PASSWORD")
     recipient = os.environ.get("EMAIL_RECIPIENT", sender)
 
     if not sender or not password:
@@ -125,18 +97,33 @@ def send_email(summary: dict):
 
     now = datetime.now()
     date_str = now.strftime("%d/%m/%Y")
-    subject = f"📰 Bản tin tài chính cuối ngày – {date_str}"
+    file_date = now.strftime("%Y%m%d_%H%M")
+    subject = f"📰 Bản tin tài chính {session} – {date_str}"
 
-    html_body = build_html(summary, date_str)
+    # ── Tạo file Word ─────────────────────────────────────────────────────────
+    docx_bytes = build_docx(summary, session)
+    filename = f"BanTinTaiChinh_{session}_{file_date}.docx"
 
-    msg = MIMEMultipart("alternative")
+    # ── Tạo email ─────────────────────────────────────────────────────────────
+    msg = MIMEMultipart("mixed")
     msg["Subject"] = subject
-    msg["From"] = f"Bản tin tài chính <{sender}>"
-    msg["To"] = recipient
+    msg["From"]    = f"Bản tin tài chính <{sender}>"
+    msg["To"]      = recipient
+
+    # Body HTML
+    html_body = _build_email_body(summary, session, date_str)
     msg.attach(MIMEText(html_body, "html", "utf-8"))
 
+    # Đính kèm file Word
+    part = MIMEBase("application", "vnd.openxmlformats-officedocument.wordprocessingml.document")
+    part.set_payload(docx_bytes)
+    encoders.encode_base64(part)
+    part.add_header("Content-Disposition", f'attachment; filename="{filename}"')
+    msg.attach(part)
+
+    # ── Gửi ──────────────────────────────────────────────────────────────────
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
         server.login(sender, password)
         server.sendmail(sender, recipient.split(","), msg.as_string())
 
-    print(f"  Email đã gửi đến: {recipient}")
+    print(f"  Email + file '{filename}' đã gửi đến: {recipient}")

@@ -2,7 +2,9 @@ name: Bản tin tài chính cuối ngày
 
 on:
   schedule:
-    # 19:00 ICT (UTC+7) = 12:00 UTC mỗi ngày
+    # 11:00 ICT (UTC+7) = 04:00 UTC → Bản tin Sáng
+    - cron: "0 4 * * *"
+    # 19:00 ICT (UTC+7) = 12:00 UTC → Bản tin Chiều
     - cron: "0 12 * * *"
   # Cho phép chạy thủ công từ GitHub Actions tab
   workflow_dispatch:
@@ -10,7 +12,7 @@ on:
 jobs:
   send-daily-news:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
 
     steps:
       - name: Checkout code
