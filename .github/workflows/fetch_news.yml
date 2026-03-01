@@ -1,0 +1,57 @@
+name: "1 – Fetch tin tức (09h/17h ICT)"
+
+on:
+  schedule:
+    # 09:00 ICT (UTC+7) = 02:00 UTC
+    - cron: "0 2 * * *"
+    # 17:00 ICT (UTC+7) = 10:00 UTC
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+    inputs:
+      session:
+        description: "Bản tin nào (morning / evening)"
+        required: false
+        default: ""
+        type: string
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch articles
+        run: python fetch_articles.py
+
+      - name: Determine session label
+        id: session
+        run: |
+          HOUR=$(date -u +%H | sed 's/^0//')
+          INPUT="${{ github.event.inputs.session }}"
+          if [ -n "$INPUT" ]; then
+            echo "name=$INPUT" >> $GITHUB_OUTPUT
+          elif [ "$HOUR" -lt 8 ]; then
+            echo "name=morning" >> $GITHUB_OUTPUT
+          else
+            echo "name=evening" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Upload articles cache as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: articles-${{ steps.session.outputs.name }}
+          path: articles_cache.json
+          retention-days: 1
+          overwrite: true

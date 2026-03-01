@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """
-Bản tin tài chính – News Aggregator
-Chạy 2 lần/ngày: 11:00 ICT (sáng) và 19:00 ICT (chiều)
+Chạy thủ công: fetch + AI tóm tắt + gửi mail trong một lần.
+Dùng để test local hoặc chạy ad-hoc.
+Trong production, hãy dùng 2 workflow riêng:
+  - fetch_news.yml  → python fetch_articles.py
+  - send_news.yml   → python summarize_and_send.py
 """
 import sys
 from datetime import datetime, timezone, timedelta
@@ -15,10 +18,7 @@ from email_sender import send_email
 
 
 def get_session() -> str:
-    """Xác định bản tin Sáng hay Chiều dựa theo giờ UTC hiện tại."""
     utc_hour = datetime.now(timezone.utc).hour
-    # 04:00 UTC = 11:00 ICT → Bản tin Sáng
-    # 12:00 UTC = 19:00 ICT → Bản tin Chiều
     return "Sáng" if utc_hour < 8 else "Chiều"
 
 
@@ -28,33 +28,31 @@ def main():
 
     print("=" * 55)
     print(f"  BẢN TIN TÀI CHÍNH {session.upper()} – {now_ict.strftime('%d/%m/%Y %H:%M')} ICT")
+    print("  (Chế độ: fetch + AI + gửi mail trong một lần)")
     print("=" * 55)
 
-    # 1. Thu thập tin tức
     print("\n[1/3] Thu thập tin tức từ các nguồn...")
     articles = scrape_all()
     print(f"  Tổng cộng: {len(articles)} bài")
 
-    if len(articles) == 0:
-        print("  Không có bài nào được thu thập. Kết thúc.")
+    if not articles:
+        print("  Không có bài nào. Kết thúc.")
         sys.exit(1)
 
-    # 2. Phân tích và tóm tắt bằng AI
     print("\n[2/3] Phân tích và tóm tắt bằng Groq AI...")
     summary = summarize_news(articles)
 
-    total_selected = sum(len(v) for v in summary.values())
-    print(f"  Đã chọn {total_selected} tin nổi bật:")
+    total = sum(len(v) for v in summary.values())
     labels = {
         "vi_mo_viet_nam": "Vĩ mô Việt Nam",
         "thi_truong":     "Thị trường",
         "the_gioi":       "Thế giới",
         "doanh_nghiep":   "Doanh nghiệp",
     }
+    print(f"  Đã chọn {total} tin nổi bật:")
     for key, items in summary.items():
-        print(f"    - {labels.get(key, key)}: {len(items)} tin")
+        print(f"    - {labels[key]}: {len(items)} tin")
 
-    # 3. Tạo file Word + Gửi email
     print(f"\n[3/3] Tạo file Word và gửi email ({session})...")
     send_email(summary, session=session)
 

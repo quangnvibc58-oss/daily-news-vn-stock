@@ -1,18 +1,19 @@
-name: Bản tin tài chính cuối ngày
+name: "2 – Tóm tắt & Gửi mail (11h/19h ICT)"
 
 on:
   schedule:
-    # 11:00 ICT (UTC+7) = 04:00 UTC → Bản tin Sáng
+    # 11:00 ICT (UTC+7) = 04:00 UTC
     - cron: "0 4 * * *"
-    # 19:00 ICT (UTC+7) = 12:00 UTC → Bản tin Chiều
+    # 19:00 ICT (UTC+7) = 12:00 UTC
     - cron: "0 12 * * *"
-  # Cho phép chạy thủ công từ GitHub Actions tab
   workflow_dispatch:
 
 jobs:
-  send-daily-news:
+  send:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    permissions:
+      actions: read   # cần để tải artifact từ workflow khác
 
     steps:
       - name: Checkout code
@@ -27,10 +28,12 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run news aggregator
+      - name: Tóm tắt AI và gửi email
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
-        run: python main.py
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python summarize_and_send.py
