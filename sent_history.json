@@ -95,8 +95,104 @@
       "date_sent": "2026-03-02",
       "sent_at": "2026-03-02T13:40",
       "session": "Sáng"
+    },
+    {
+      "url": "https://cafef.vn/chung-khoan-viet-nam-giam-manh-nhat-tu-dau-nam-tien-vao-hose-len-cao-nhat-4-thang-188260302160654451.chn",
+      "title": "Chứng khoán Việt Nam giảm mạnh nhất từ đầu năm, tiền vào HoSE lên cao nhất 4 tháng",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-03-02",
+      "sent_at": "2026-03-02T21:33",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/khoi-ngoai-rot-hon-800-ty-gom-ba-co-phieu-bluechips-trong-phien-vn-index-giam-manh-188260302152611101.chn",
+      "title": "Khối ngoại rót hơn 800 tỷ gom ba cổ phiếu bluechips trong phiên VN-Index giảm mạnh",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-03-02",
+      "sent_at": "2026-03-02T21:33",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/khoi-ngoai-ban-rong-vinamilk-doi-chu-c30a2746474.html",
+      "title": "Khối ngoại bán ròng - Vinamilk đổi chủ?",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-03-02",
+      "sent_at": "2026-03-02T21:33",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/tu-con-sot-dong-1kg-o-trung-quoc-bai-hoc-lon-cho-nha-dau-tu-hang-hoa-c30a2746717.html",
+      "title": "Từ cơn sốt đồng 1kg ở Trung Quốc - Bài học lớn cho nhà đầu tư hàng hóa",
+      "category": "thi_truong",
+      "date_sent": "2026-03-02",
+      "sent_at": "2026-03-02T21:33",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/phan-ung-cua-bitcoin-giua-cang-thang-tai-trung-dong-c4a2748833.html",
+      "title": "Phản ứng của Bitcoin giữa căng thẳng tại Trung Đông",
+      "category": "thi_truong",
+      "date_sent": "2026-03-02",
+      "sent_at": "2026-03-02T21:33",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/no-xau-ngan-hang-vuot-10-ty-usd-khong-phai-bidv-hay-vpbank-day-moi-la-nha-bang-co-nhieu-no-xau-nhat-188260302005611233.chn",
+      "title": "Nợ xấu ngân hàng vượt 10 tỷ USD: Không phải BIDV hay VPBank, đây mới là nhà băng có nhiều nợ xấu nhất",
+      "category": "thi_truong",
+      "date_sent": "2026-03-02",
+      "sent_at": "2026-03-02T21:33",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/tomahawk-doi-xuong-iran-va-noi-lo-trong-kho-tai-thai-binh-duong-c28a2748826.html",
+      "title": "Tomahawk dội xuống Iran và nỗi lo 'trống kho' tại Thái Bình Dương",
+      "category": "the_gioi",
+      "date_sent": "2026-03-02",
+      "sent_at": "2026-03-02T21:33",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/iran-tuyen-bo-ban-roi-may-bay-my-tai-kuwait-c28a2748780.html",
+      "title": "Iran tuyên bố bắn rơi máy bay Mỹ tại Kuwait",
+      "category": "the_gioi",
+      "date_sent": "2026-03-02",
+      "sent_at": "2026-03-02T21:33",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/iran-lien-tiep-tung-don-dap-tra-ap-luc-tu-my-va-israel-tiep-tuc-gia-tang-c28a2748695.html",
+      "title": "Iran liên tiếp tung đòn đáp trả, áp lực từ Mỹ và Israel tiếp tục gia tăng",
+      "category": "the_gioi",
+      "date_sent": "2026-03-02",
+      "sent_at": "2026-03-02T21:33",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/nguoi-truyen-lua-vu-van-tien-thap-lua-moi-cho-abbank-188260228155139257.chn",
+      "title": "“Người truyền lửa” Vũ Văn Tiền thắp lửa mới cho ABBank",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-03-02",
+      "sent_at": "2026-03-02T21:33",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/vi-sao-ty-phu-tran-ba-duong-lam-o-to-thuong-hieu-rieng-188260302110126925.chn",
+      "title": "Vì sao tỷ phú Trần Bá Dương làm ô tô thương hiệu riêng?",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-03-02",
+      "sent_at": "2026-03-02T21:33",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/acb-huong-toi-muc-tieu-ngan-hang-tien-phong-trong-phat-trien-ben-vung-102260205160759709.htm",
+      "title": "ACB hướng tới mục tiêu ngân hàng tiên phong trong phát triển bền vững",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-03-02",
+      "sent_at": "2026-03-02T21:33",
+      "session": "Chiều"
     }
   ],
-  "total_sent": 12,
-  "last_updated": "2026-03-02T13:40"
+  "total_sent": 24,
+  "last_updated": "2026-03-02T21:33"
 }
