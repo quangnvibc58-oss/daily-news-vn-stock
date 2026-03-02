@@ -15,6 +15,7 @@ from cache_manager import download_cache
 from scrapers import scrape_all
 from ai_summarizer import summarize_news
 from email_sender import send_email
+from history_manager import filter_new_articles, record_sent, push_history, print_stats
 
 
 def get_session() -> tuple[str, str]:
@@ -56,16 +57,26 @@ def main():
     print("=" * 55)
 
     # 1. Tải dữ liệu tin tức (từ cache hoặc fetch trực tiếp)
-    print("\n[1/3] Tải dữ liệu tin tức...")
+    print("\n[1/4] Tải dữ liệu tin tức...")
     articles = load_articles()
-    print(f"  Tổng cộng: {len(articles)} bài")
+    print(f"  Tổng cộng: {len(articles)} bài thô")
 
     if not articles:
         print("  Không có bài nào. Kết thúc.")
         sys.exit(1)
 
-    # 2. Phân tích và tóm tắt bằng AI
-    print("\n[2/3] Phân tích và tóm tắt bằng Groq AI...")
+    # 2. Lọc bài đã gửi trước đó
+    print("\n[2/4] Lọc bài đã gửi...")
+    print_stats()
+    articles, removed = filter_new_articles(articles)
+    print(f"  Loại bỏ {removed} bài trùng → còn {len(articles)} bài mới")
+
+    if not articles:
+        print("  Tất cả bài đều đã gửi rồi. Kết thúc.")
+        sys.exit(0)
+
+    # 3. Phân tích và tóm tắt bằng AI
+    print("\n[3/4] Phân tích và tóm tắt bằng Groq AI...")
     summary = summarize_news(articles)
 
     total = sum(len(v) for v in summary.values())
@@ -75,13 +86,16 @@ def main():
         "the_gioi":       "Thế giới",
         "doanh_nghiep":   "Doanh nghiệp",
     }
-    print(f"  Đã chọn {total} tin nổi bật:")
+    print(f"  Đã chọn {total} tin nổi bật (đều là tin MỚI chưa gửi):")
     for key, items in summary.items():
         print(f"    - {labels[key]}: {len(items)} tin")
 
-    # 3. Tạo file Word + Gửi email
-    print(f"\n[3/3] Tạo file Word và gửi email ({session})...")
+    # 4. Tạo file Word + Gửi email + Lưu lịch sử
+    print(f"\n[4/4] Tạo file Word, gửi email và lưu lịch sử...")
     send_email(summary, session=session)
+
+    record_sent(summary, session=session)
+    push_history()
 
     print("\n✓ Hoàn thành!")
     print("=" * 55)

@@ -13,7 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     permissions:
-      actions: read   # cần để tải artifact từ workflow khác
+      actions: read      # tải artifact từ workflow fetch_news
+      contents: write    # push sent_history.json sau khi gửi
 
     steps:
       - name: Checkout code
