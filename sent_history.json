@@ -191,8 +191,160 @@
       "date_sent": "2026-03-02",
       "sent_at": "2026-03-02T21:33",
       "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/chinh-thuc-thu-phi-5-tuyen-cao-toc-bac-nam-mo-ra-giai-doan-moi-trong-van-hanh-ha-tang-giao-thong-quoc-gia-102260303092910825.htm",
+      "title": "Chính thức thu phí 5 tuyến cao tốc Bắc-Nam: Giai đoạn mới trong vận hành hạ tầng giao thông quốc gia",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-03-03",
+      "sent_at": "2026-03-03T13:10",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/thu-tuong-chinh-phu-chu-tri-phien-hop-ban-chi-dao-cac-du-an-duong-sat-c27a2749199.html",
+      "title": "Thủ tướng Chính phủ chủ trì phiên họp Ban Chỉ đạo các dự án đường sắt",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-03-03",
+      "sent_at": "2026-03-03T13:10",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://cafef.vn/lo-dien-sieu-du-an-khu-thuong-mai-tu-do-cua-viet-nam-ctck-goi-ten-ong-lon-huong-loi-truc-tiep-vingroup-va-sun-group-dat-cuoc-vao-dau-188260302231923563.chn",
+      "title": "Lộ diện siêu dự án Khu thương mại tự do của Việt Nam, CTCK gọi tên 'ông lớn' hưởng lợi trực tiếp: Vingroup và Sun Group 'đặt cược' vào đâu?",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-03-03",
+      "sent_at": "2026-03-03T13:10",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://cafef.vn/chung-khoan-buoc-vao-thang-co-xac-suat-tang-diem-cao-ctck-chi-ra-mot-nhom-co-phieu-dang-am-tham-hut-tien-tro-lai-188260302213217231.chn",
+      "title": "Chứng khoán bước vào tháng có xác suất tăng điểm cao, CTCK chỉ ra một nhóm cổ phiếu đang âm thầm hút tiền trở lại",
+      "category": "thi_truong",
+      "date_sent": "2026-03-03",
+      "sent_at": "2026-03-03T13:10",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://cafef.vn/chuyen-gia-chung-khoan-thuong-mat-nhieu-phien-de-hoi-phuc-sau-cu-soc-xung-dot-nha-dau-tu-can-nhac-chot-loi-nhom-co-phieu-dau-khi-188260302213336052.chn",
+      "title": "Chuyên gia: Chứng khoán thường mất nhiều phiên để hồi phục sau cú sốc xung đột, nhà đầu tư cân nhắc \"chốt lời\" nhóm cổ phiếu dầu khí",
+      "category": "thi_truong",
+      "date_sent": "2026-03-03",
+      "sent_at": "2026-03-03T13:10",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://baochinhphu.vn/danh-cong-khai-truong-giao-dich-xuan-binh-ngo-2026-tai-so-giao-dich-chung-khoan-tphcm-102260224120219958.htm",
+      "title": "Thị trường chứng khoán khởi sắc trong ngày đánh cồng khai trương",
+      "category": "thi_truong",
+      "date_sent": "2026-03-03",
+      "sent_at": "2026-03-03T13:10",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/canh-bao-rui-ro-chung-khoan-viet-nam-khi-my-tan-cong-iran-c30a2747777.html",
+      "title": "Cảnh Báo Rủi Ro Chứng Khoán Việt Nam Khi Mỹ Tấn Công Iran!",
+      "category": "thi_truong",
+      "date_sent": "2026-03-03",
+      "sent_at": "2026-03-03T13:10",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/hieu-qua-hoat-dong-va-vi-the-chien-luoc-cua-tcbs-c30a2747097.html",
+      "title": "Hiệu quả hoạt động và vị thế chiến lược của TCBS",
+      "category": "thi_truong",
+      "date_sent": "2026-03-03",
+      "sent_at": "2026-03-03T13:10",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/co-phieu-dau-khi-don-song-lon-giua-bao-lua-xung-dot-c30a2748611.html",
+      "title": "Cổ phiếu Dầu khí đón sóng lớn giữa 'bão lửa' xung đột",
+      "category": "thi_truong",
+      "date_sent": "2026-03-03",
+      "sent_at": "2026-03-03T13:10",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/cu-soc-my-irsael-vs-iran-thi-truong-hoang-loan-hay-co-hoi-gom-hang-c30a2748269.html",
+      "title": "Cú sốc Mỹ, Irsael vs Iran: Thị trường hoảng loạn? Hay cơ hội gom hàng?",
+      "category": "thi_truong",
+      "date_sent": "2026-03-03",
+      "sent_at": "2026-03-03T13:10",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://baochinhphu.vn/cang-thang-trung-dong-gia-tang-bo-cong-thuong-yeu-cau-doanh-nghiep-da-dang-hoa-nguon-cung-thi-truong-102260302135614476.htm",
+      "title": "Căng thẳng Trung Đông gia tăng: Bộ Công Thương yêu cầu doanh nghiệp đa dạng hóa nguồn cung, thị trường",
+      "category": "the_gioi",
+      "date_sent": "2026-03-03",
+      "sent_at": "2026-03-03T13:10",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/van-tai-toan-cau-gian-doan-vi-hang-tram-tau-ket-o-eo-bien-hormuz-c28a2749234.html",
+      "title": "Vận tải toàn cầu gián đoạn vì hàng trăm tàu kẹt ở eo biển Hormuz",
+      "category": "the_gioi",
+      "date_sent": "2026-03-03",
+      "sent_at": "2026-03-03T13:10",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/trung-quoc-tuyen-bo-ung-ho-iran-giua-cang-thang-voi-my-va-israel-c28a2749185.html",
+      "title": "Trung Quốc tuyên bố ủng hộ Iran giữa căng thẳng với Mỹ và Israel",
+      "category": "the_gioi",
+      "date_sent": "2026-03-03",
+      "sent_at": "2026-03-03T13:10",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/xung-dot-my-iran-co-the-tac-dong-nhu-the-nao-den-gia-dau-vang-tien-te-va-thi-truong-chung-khoan-toan-cau-c30a2748410.html",
+      "title": "Xung đột Mỹ-Iran có thể tác động như thế nào đến giá dầu, vàng, tiền tệ và thị trường chứng khoán toàn cầu?",
+      "category": "the_gioi",
+      "date_sent": "2026-03-03",
+      "sent_at": "2026-03-03T13:10",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://baochinhphu.vn/thanh-tra-chinh-phu-chi-ra-nhieu-vi-pham-tai-tap-doan-cong-nghiep-cao-su-viet-nam-102260302100647067.htm",
+      "title": "Thanh tra Chính phủ chỉ ra nhiều vi phạm tại Tập đoàn Công nghiệp Cao su Việt Nam",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-03-03",
+      "sent_at": "2026-03-03T13:10",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://baochinhphu.vn/shb-duoc-chap-thuan-tang-von-len-53442-ty-dong-102260302222646067.htm",
+      "title": "SHB được chấp thuận tăng vốn lên 53.442 tỷ đồng",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-03-03",
+      "sent_at": "2026-03-03T13:10",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/vhc-tiep-tuc-huong-muc-thue-0-cho-ca-basa-c30a2748517.html",
+      "title": "VHC tiếp tục hưởng mức thuế 0% cho cá basa",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-03-03",
+      "sent_at": "2026-03-03T13:10",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://baochinhphu.vn/vietcombank-ho-tro-1-ty-dong-thiet-bi-y-te-trao-200-suat-qua-tai-hoc-mon-va-cu-chi-102260228182829829.htm",
+      "title": "Vietcombank hỗ trợ 1 tỷ đồng thiết bị y tế, trao 200 suất quà tại Hóc Môn và Củ Chi",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-03-03",
+      "sent_at": "2026-03-03T13:10",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/dien-may-xanh-hoan-thien-chien-luoc-moi-chu-dong-thich-ung-voi-xu-huong-tieu-dung-2026-c30a2747354.html",
+      "title": "Điện Máy Xanh hoàn thiện chiến lược mới, chủ động thích ứng với xu hướng tiêu dùng 2026",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-03-03",
+      "sent_at": "2026-03-03T13:10",
+      "session": "Sáng"
     }
   ],
-  "total_sent": 24,
-  "last_updated": "2026-03-02T21:33"
+  "total_sent": 43,
+  "last_updated": "2026-03-03T13:10"
 }
