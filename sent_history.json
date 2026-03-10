@@ -2471,8 +2471,152 @@
       "date_sent": "2026-03-09",
       "sent_at": "2026-03-09T22:15",
       "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/xuat-nhap-khau-tang-truong-2-con-so-vi-pham-thuong-mai-van-dien-bien-phuc-tap-102260309183910195.htm",
+      "title": "Xuất nhập khẩu tăng trưởng 2 con số; vi phạm thương mại vẫn diễn biến phức tạp",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-03-10",
+      "sent_at": "2026-03-10T13:06",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://baochinhphu.vn/mo-dot-cao-diem-15-ngay-ho-tro-ho-kinh-doanh-ke-khai-thue-theo-nghi-dinh-68-102260309174726705.htm",
+      "title": "Mở đợt cao điểm 15 ngày hỗ trợ hộ kinh doanh kê khai thuế theo Nghị định 68",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-03-10",
+      "sent_at": "2026-03-10T13:06",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://cafef.vn/lanh-dao-ubcknn-luat-quy-dinh-cong-bo-tai-lieu-dhdcd-truoc-21-ngay-nhung-nhieu-dn-doi-pho-bang-tai-lieu-chap-va-188260310104222502.chn",
+      "title": "Lãnh đạo UBCKNN: Luật quy định công bố tài liệu ĐHĐCĐ trước 21 ngày, nhưng nhiều DN đối phó bằng tài liệu chắp vá",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-03-10",
+      "sent_at": "2026-03-10T13:06",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://cafef.vn/kich-ban-nao-cho-thi-truong-chung-khoan-viet-nam-sau-phien-ban-thao-ky-luc-188260309223646625.chn",
+      "title": "Kịch bản nào cho thị trường chứng khoán Việt Nam sau phiên bán tháo kỷ lục?",
+      "category": "thi_truong",
+      "date_sent": "2026-03-10",
+      "sent_at": "2026-03-10T13:06",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://baochinhphu.vn/hai-quan-siet-kiem-soat-buon-lau-xang-dau-qua-bien-gioi-10226031010464601.htm",
+      "title": "Hải quan siết kiểm soát buôn lậu xăng dầu qua biên giới",
+      "category": "thi_truong",
+      "date_sent": "2026-03-10",
+      "sent_at": "2026-03-10T13:06",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://baochinhphu.vn/bo-cong-thuong-khuyen-khich-lam-viec-tu-xa-de-tiet-kiem-nhien-lieu-102260310065704947.htm",
+      "title": "Bộ Công Thương khuyến khích làm việc từ xa để tiết kiệm nhiên liệu",
+      "category": "thi_truong",
+      "date_sent": "2026-03-10",
+      "sent_at": "2026-03-10T13:06",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://baochinhphu.vn/cac-dia-phuong-can-tang-cuong-thanh-toan-khong-tien-mat-de-nang-hieu-qua-quan-ly-thue-102260309181349356.htm",
+      "title": "Các địa phương cần tăng cường thanh toán không tiền mặt để nâng hiệu quả quản lý thuế",
+      "category": "thi_truong",
+      "date_sent": "2026-03-10",
+      "sent_at": "2026-03-10T13:06",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/risk-off-phep-thu-cho-ttck-viet-nam-mot-ngoi-sao-moi-noi-da-dat-moi-tieu-chi-nang-hang-c30a2753219.html",
+      "title": "Risk-off: phép thử cho TTCK Việt Nam - một “ngôi sao mới nổi” đã đạt mọi tiêu chí nâng hạng",
+      "category": "thi_truong",
+      "date_sent": "2026-03-10",
+      "sent_at": "2026-03-10T13:06",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/ba-lan-thi-truong-chung-khoan-viet-nam-giam-hon-6--va-dieu-lich-su-luon-lap-lai-c30a2753479.html",
+      "title": "Ba lần thị trường chứng khoán Việt Nam giảm hơn 6% — Và điều lịch sử luôn lặp lại",
+      "category": "thi_truong",
+      "date_sent": "2026-03-10",
+      "sent_at": "2026-03-10T13:06",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/lam-phat-tro-lai-vn-index-co-nguy-hiem-c30a2753242.html",
+      "title": "Lạm phát trở lại, VN-Index có nguy hiểm?",
+      "category": "thi_truong",
+      "date_sent": "2026-03-10",
+      "sent_at": "2026-03-10T13:06",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/chung-khoan-tuan-9-3-13-3-va-co-phieu-chu-y-c1a2752622.html",
+      "title": "Chứng khoán tuần 9/3 - 13/3 và cổ phiếu chú ý",
+      "category": "thi_truong",
+      "date_sent": "2026-03-10",
+      "sent_at": "2026-03-10T13:06",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/nguy-co-dut-gay-dong-chay-dau-tho-qua-eo-bien-hormuz-chinh-phu-tung-bien-phap-khan-cap-voi-xang-dau-c28a2753983.html",
+      "title": "Nguy cơ đứt gãy dòng chảy dầu thô qua eo biển Hormuz, Chính phủ tung biện pháp khẩn cấp với xăng dầu",
+      "category": "the_gioi",
+      "date_sent": "2026-03-10",
+      "sent_at": "2026-03-10T13:06",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/iran-tuyen-bo-cho-ham-doi-my-tai-eo-bien-hormuz-doa-chan-toan-bo-xuat-khau-dau-trung-dong-c28a2753981.html",
+      "title": "Iran tuyên bố “chờ” hạm đội Mỹ tại eo biển Hormuz, dọa chặn toàn bộ xuất khẩu dầu Trung Đông",
+      "category": "the_gioi",
+      "date_sent": "2026-03-10",
+      "sent_at": "2026-03-10T13:06",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/xung-dot-iran--trung-dong-leo-thang-gia-dau-tang-manh-thi-truong-buoc-vao-vung-nhay-cam-c30a2753340.html",
+      "title": "Xung đột Iran – Trung Đông leo thang: Giá dầu tăng mạnh, thị trường bước vào vùng nhạy cảm",
+      "category": "the_gioi",
+      "date_sent": "2026-03-10",
+      "sent_at": "2026-03-10T13:06",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/chien-su-my-iran-leo-thang-nga-ngoi-khong-hung-vang-khi-gia-dau-bung-no-va-dien-kremlin-tro-thanh-nguoi-thang-tham-lang-c30a2752966.html",
+      "title": "Chiến sự Mỹ - Iran leo thang: Nga “Ngồi không hứng vàng”? Khi giá dầu bùng nổ và điện Kremlin trở thành người thắng thầm lặng",
+      "category": "the_gioi",
+      "date_sent": "2026-03-10",
+      "sent_at": "2026-03-10T13:06",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/toi-nghi-viec-luong-40-trieu-de-ban-hang-online-c30a2753016.html",
+      "title": "“Tôi nghỉ việc lương 40 triệu để bán hàng online.”",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-03-10",
+      "sent_at": "2026-03-10T13:06",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://cafef.vn/co-phieu-cua-ty-phu-tran-dinh-long-lam-mot-dieu-chua-tung-co-trong-gan-1-nam-188260310105908638.chn",
+      "title": "Cổ phiếu của tỷ phú Trần Đình Long làm một điều chưa từng có trong gần 1 năm",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-03-10",
+      "sent_at": "2026-03-10T13:06",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://cafef.vn/giua-con-sot-gia-xang-hang-xe-may-dien-dat-bike-nhan-dau-tu-4-trieu-usd-tu-thien-viet-nang-tong-von-huy-dong-len-51-trieu-usd-188260309235358181.chn",
+      "title": "Giữa cơn sốt giá xăng, hãng xe máy điện Dat Bike nhận đầu tư 4 triệu USD từ Thiên Việt, nâng tổng vốn huy động lên 51 triệu USD",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-03-10",
+      "sent_at": "2026-03-10T13:06",
+      "session": "Sáng"
     }
   ],
-  "total_sent": 309,
-  "last_updated": "2026-03-09T22:15"
+  "total_sent": 327,
+  "last_updated": "2026-03-10T13:06"
 }
