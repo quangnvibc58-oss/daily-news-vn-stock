@@ -3399,8 +3399,88 @@
       "date_sent": "2026-03-12",
       "sent_at": "2026-03-12T20:05",
       "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/nga-thu-them-khoang-150-trieu-usd-ngay-nho-gia-dau-tang-vot-c28a2755674.html",
+      "title": "Nga thu thêm khoảng 150 triệu USD/ngày nhờ giá dầu tăng vọt",
+      "category": "thi_truong",
+      "date_sent": "2026-03-13",
+      "sent_at": "2026-03-13T12:13",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/iran-de-nghi-mo-lai-eo-bien-hormuz-nhung-dieu-kien-la-cac-nuoc-phai-truc-xuat-dai-su-my-va-israel-c30a2753910.html",
+      "title": "Iran đề nghị mở lại eo biển Hormuz, nhưng điều kiện là các nước phải trục xuất đại sứ Mỹ và Israel",
+      "category": "thi_truong",
+      "date_sent": "2026-03-13",
+      "sent_at": "2026-03-13T12:13",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/ong-netanyahu-tuyen-bo-israel-manh-hon-bao-gio-het-tehran-canh-bao-dot-chay-toan-bo-dau-cua-khu-vuc-c28a2755684.html",
+      "title": "Ông Netanyahu tuyên bố Israel 'mạnh hơn bao giờ hết', Tehran cảnh báo ‘đốt cháy’ toàn bộ dầu của khu vực",
+      "category": "thi_truong",
+      "date_sent": "2026-03-13",
+      "sent_at": "2026-03-13T12:13",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://cafef.vn/sau-1-tuan-ong-to-dung-lam-chu-tich-gia-co-phieu-viwaseen-tang-gap-doi-188260313002126241.chn",
+      "title": "Sau 1 tuần ông Tô Dũng làm Chủ tịch, giá cổ phiếu Viwaseen tăng gấp đôi",
+      "category": "thi_truong",
+      "date_sent": "2026-03-13",
+      "sent_at": "2026-03-13T12:13",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/trung-quoc-am-tham-chuan-bi-nhieu-nam-va-gio-dang-thang-lon-trong-khung-hoang-dau-chau-a-c30a2754416.html",
+      "title": "Trung Quốc âm thầm chuẩn bị nhiều năm và giờ đang thắng lớn trong khủng hoảng dầu châu Á",
+      "category": "thi_truong",
+      "date_sent": "2026-03-13",
+      "sent_at": "2026-03-13T12:13",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/gia-ure-tang-vot-vi-xung-dot-iran-dpm-va-dcm-huong-loi-nho-ton-kho-lon-c1a2755722.html",
+      "title": "Giá urê tăng vọt vì xung đột Iran, DPM và DCM hưởng lợi nhờ tồn kho lớn?",
+      "category": "thi_truong",
+      "date_sent": "2026-03-13",
+      "sent_at": "2026-03-13T12:13",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/cu-danh-121-thue-thep-my-siet-thep-viet-nam--rui-ro-that-su-hay-chi-la-nhieu-tin-voi-hoa-phat-c30a2755132.html",
+      "title": "“Cú đánh 121% thuế thép”: Mỹ siết thép Việt Nam – rủi ro thật sự hay chỉ là “nhiễu tin” với Hòa Phát?",
+      "category": "thi_truong",
+      "date_sent": "2026-03-13",
+      "sent_at": "2026-03-13T12:13",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://baochinhphu.vn/suc-hut-tu-nhung-chiec-dien-thoai-samsung-galaxy-s26-made-in-viet-nam-102260313102506217.htm",
+      "title": "Sức hút từ những chiếc điện thoại Samsung Galaxy S26 ‘Made in Việt Nam’",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-03-13",
+      "sent_at": "2026-03-13T12:13",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://cafef.vn/nha-may-loc-dau-dau-tien-cua-viet-nam-suot-5-nam-chay-qua-cong-suat-toi-120-chuyen-gi-da-xay-ra-188260313024052076.chn",
+      "title": "Nhà máy lọc dầu đầu tiên của Việt Nam suốt 5 năm chạy quá công suất, tới 120%: Chuyện gì đã xảy ra?",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-03-13",
+      "sent_at": "2026-03-13T12:13",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://cafef.vn/co-gi-trong-quan-ca-phe-moi-tinh-tren-dat-my-cua-ong-dang-le-nguyen-vu-khach-xep-hang-tap-nap-co-khong-gian-trung-bay-dac-biet-188260313113544629.chn",
+      "title": "Có gì trong quán cà phê mới tinh trên đất Mỹ của ông Đặng Lê Nguyên Vũ: Khách xếp hàng tấp nập, có không gian trưng bày đặc biệt",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-03-13",
+      "sent_at": "2026-03-13T12:13",
+      "session": "Sáng"
     }
   ],
-  "total_sent": 425,
-  "last_updated": "2026-03-12T20:05"
+  "total_sent": 435,
+  "last_updated": "2026-03-13T12:13"
 }
