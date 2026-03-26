@@ -7143,8 +7143,104 @@
       "date_sent": "2026-03-26",
       "sent_at": "2026-03-26T12:41",
       "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/lai-suat-tang-phai-lam-sao-c30a2763345.html",
+      "title": "Lãi suất tăng, phải làm sao?",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-03-26",
+      "sent_at": "2026-03-26T20:21",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/thi-truong-chung-khoan-hom-nay-25-3-2026-chi-so-dow-jones-s-p-500-nasdaq-tuong-lai-tang-manh-khi-pho-wall-dat-hy-vong-vao-tien-trien-trong-dam-phan-voi-iran-c30a2763352.html",
+      "title": "Thị trường chứng khoán hôm nay 25/3/2026: Chỉ số Dow Jones, S&P 500, Nasdaq tương lai tăng mạnh khi Phố Wall đặt hy vọng vào tiến triển trong đàm phán với Iran",
+      "category": "thi_truong",
+      "date_sent": "2026-03-26",
+      "sent_at": "2026-03-26T20:21",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/gia-vang-cao-hon-the-gioi-30-trieu-luong-nguoi-mua-doi-mat-rui-ro-kep-c30a2762814.html",
+      "title": "Giá vàng cao hơn thế giới 30 triệu/lượng, người mua đối mặt rủi ro kép",
+      "category": "thi_truong",
+      "date_sent": "2026-03-26",
+      "sent_at": "2026-03-26T20:21",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/khoi-to-bat-tam-giam-vuong-le-vinh-nhan-eric-vuong-cung-6-dong-pham-188260326192609952.chn",
+      "title": "Khởi tố, bắt tạm giam Vương Lê Vĩnh Nhân (Eric Vương) cùng 6 đồng phạm",
+      "category": "thi_truong",
+      "date_sent": "2026-03-26",
+      "sent_at": "2026-03-26T20:21",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/iran-doa-bop-nghet-bien-do-neu-my-do-quan-chiem-dao-c28a2764030.html",
+      "title": "Iran dọa bóp nghẹt biển Đỏ nếu Mỹ đổ quân chiếm đảo",
+      "category": "the_gioi",
+      "date_sent": "2026-03-26",
+      "sent_at": "2026-03-26T20:21",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/israel-co-the-da-ha-sat-tuong-iran-phu-trach-phong-toa-eo-bien-hormuz-c28a2764095.html",
+      "title": "Israel có thể đã hạ sát tướng Iran phụ trách phong tỏa eo biển Hormuz",
+      "category": "the_gioi",
+      "date_sent": "2026-03-26",
+      "sent_at": "2026-03-26T20:21",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/ong-trump-hon-100-ten-lua-iran-da-nham-vao-tau-san-bay-my-c28a2764058.html",
+      "title": "Ông Trump: Hơn 100 tên lửa Iran đã nhắm vào tàu sân bay Mỹ",
+      "category": "the_gioi",
+      "date_sent": "2026-03-26",
+      "sent_at": "2026-03-26T20:21",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/nguy-co-iran-tao-diem-nghen-nang-luong-moi-o-bien-do-c28a2764017.html",
+      "title": "Nguy cơ Iran tạo điểm nghẽn năng lượng mới ở biển Đỏ",
+      "category": "the_gioi",
+      "date_sent": "2026-03-26",
+      "sent_at": "2026-03-26T20:21",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/ong-lon-indonesia-chi-hon-1-700-ty-dong-mua-hang-banh-keo-bibica-c2a2764133.html",
+      "title": "'Ông lớn' Indonesia chi hơn 1.700 tỷ đồng mua hãng bánh kẹo Bibica",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-03-26",
+      "sent_at": "2026-03-26T20:21",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/vck-tang-von-gap-3-lan-hieu-qua-su-dung-von-giam-manh-c30a2762511.html",
+      "title": "VCK - tăng vốn gấp 3 lần , hiệu quả sử dụng vốn giảm mạnh?",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-03-26",
+      "sent_at": "2026-03-26T20:21",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/cong-ty-khoang-san-cua-ty-phu-nguyen-dang-quang-dat-muc-tieu-lai-dot-bien-2500-ty-nam-2026-len-ke-hoach-niem-yet-hose-18826032614134261.chn",
+      "title": "Công ty khoáng sản của tỷ phú Nguyễn Đăng Quang đặt mục tiêu lãi đột biến 2.500 tỷ năm 2026, lên kế hoạch niêm yết HOSE",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-03-26",
+      "sent_at": "2026-03-26T20:21",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/dhdcd-chung-khoan-mb-ke-hoach-loi-nhuan-ky-luc-ruc-rich-gia-nhap-linh-vuc-vang-phai-sinh-188260326152232679.chn",
+      "title": "ĐHĐCĐ Chứng khoán MB: Kế hoạch lợi nhuận kỷ lục, rục rịch gia nhập lĩnh vực vàng phái sinh",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-03-26",
+      "sent_at": "2026-03-26T20:21",
+      "session": "Chiều"
     }
   ],
-  "total_sent": 893,
-  "last_updated": "2026-03-26T12:41"
+  "total_sent": 905,
+  "last_updated": "2026-03-26T20:21"
 }
