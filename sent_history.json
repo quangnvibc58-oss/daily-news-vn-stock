@@ -8319,8 +8319,168 @@
       "date_sent": "2026-05-15",
       "sent_at": "2026-05-15T13:54",
       "session": "Sáng"
+    },
+    {
+      "url": "https://baochinhphu.vn/thu-ngan-sach-tu-xuat-nhap-khau-tang-165-102260515172737091.htm",
+      "title": "Thu ngân sách từ xuất nhập khẩu tăng 16,5%",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/wb-kinh-te-viet-nam-vung-vang-cai-cach-quyet-dinh-suc-bat-dai-han-102260515152956818.htm",
+      "title": "WB: Kinh tế Việt Nam vững vàng, cải cách quyết định sức bật dài hạn",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/de-xuat-sua-doi-quy-dinh-ve-tieu-chi-thu-huong-chinh-sach-ho-tro-cua-nha-nuoc-doi-voi-hop-tac-xa-102260515151730278.htm",
+      "title": "Đề xuất sửa đổi tiêu chí thụ hưởng chính sách hỗ trợ của Nhà nước đối với hợp tác xã",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/my-iran-lai-nong-vnindex-o-vung-cao-1-co-phieu-se-tang-gia-tuong-tu-stb-c30a2782419.html",
+      "title": "Mỹ - Iran lại nóng, VnIndex ở vùng cao - 1 cổ phiếu sẽ tăng giá tương tự STB",
+      "category": "thi_truong",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/khoi-ngoai-quay-dau-ban-rong-hon-800-ty-phien-vn-index-rung-lac-xa-manh-mot-co-phieu-bluechips-188260515154726983.chn",
+      "title": "Khối ngoại quay đầu bán ròng hơn 800 tỷ phiên VN-Index rung lắc, \"xả\" mạnh một cổ phiếu Bluechips",
+      "category": "thi_truong",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/tin-vui-cho-cac-ngan-hang-ngan-hang-nha-nuoc-chinh-thuc-noi-ty-le-ldr-vietcombank-bidv-va-vietinbank-co-the-cho-vay-them-hang-chuc-nghin-ty-dong-188260515150805956.chn",
+      "title": "Tin vui cho các ngân hàng: Ngân hàng Nhà nước chính thức nới tỷ lệ LDR, Vietcombank, BIDV và VietinBank có thể cho vay thêm hàng chục nghìn tỷ đồng",
+      "category": "thi_truong",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/xang-sinh-hoc-e10-duoc-trien-khai-co-phieu-nao-can-chu-y-c30a2782479.html",
+      "title": "Xăng sinh học E10 được triển khai, cổ phiếu nào cần chú ý?",
+      "category": "thi_truong",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/lpbs-khoi-dong-dot-ipo-quy-mo-hon-4-250-ty-dong-c1a2783573.html",
+      "title": "LPBS khởi động đợt IPO quy mô hơn 4,250 tỷ đồng",
+      "category": "thi_truong",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/chenh-lech-gia-vang-co-the-giam-ve-10-trieu-luong-trong-1-2-thang-toi-c30a2782588.html",
+      "title": "'Chênh lệch giá vàng có thể giảm về 10 triệu/lượng trong 1 - 2 tháng tới'",
+      "category": "thi_truong",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/tt-trump-truy-tim-uranium-cua-iran-chu-yeu-de-tao-hieu-ung-hinh-anh-c28a2783452.html",
+      "title": "TT Trump: Truy tìm Uranium của Iran chủ yếu để tạo hiệu ứng hình ảnh",
+      "category": "the_gioi",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/tuong-my-bac-tin-iran-giu-duoc-phan-lon-kho-ten-lua-c28a2783400.html",
+      "title": "Tướng Mỹ bác tin Iran giữ được phần lớn kho tên lửa",
+      "category": "the_gioi",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/my-phai-boi-thuong-chien-tranh-neu-muon-dam-phan-c28a2783561.html",
+      "title": "Mỹ phải bồi thường chiến tranh nếu muốn đàm phán",
+      "category": "the_gioi",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/the-co-lon-xoay-quanh-bac-kinh-c28a2783576.html",
+      "title": "Thế cờ lớn xoay quanh Bắc Kinh",
+      "category": "the_gioi",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/co-phieu-dxg-diem-roi-loi-nhuan-da-den-c30a2783215.html",
+      "title": "Cổ phiếu DXG - Điểm rơi lợi nhuận đã đến",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/co-phieu-shb-co-nen-mua-sau-phat-hanh-quyen-mua-gia-tang-hay-giam-c30a2782139.html",
+      "title": "Cổ phiếu SHB - Có nên mua? Sau phát hành quyền mua giá tăng hay giảm?",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/tcb-quy-1-2026-phan-tich-chi-tiet-nen-tang-loi-nhuan-tot-c30a2782785.html",
+      "title": "TCB quý 1/2026: Phân Tích Chi Tiết Nền tảng lợi nhuận tốt",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/vdb-sau-20-nam-tang-toc-tai-co-cau-tru-cot-von-cho-cac-cong-trinh-chien-luoc-102260515190949373.htm",
+      "title": "VDB sau 20 năm: Tăng tốc tái cơ cấu, trụ cột vốn cho các công trình chiến lược",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/ree-thay-tuong-ba-mai-thanh-roi-ghe-chu-tich-con-trai-lam-tong-giam-doc-188260515181138995.chn",
+      "title": "REE thay \"tướng\": Bà Mai Thanh rời ghế Chủ tịch, con trai làm Tổng Giám đốc",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/gong-kim-tang-truong-fpt-frt-khi-cong-nghe-cot-loi-hoa-quyen-cung-he-sinh-thai-ban-le-duoc-pham-c30a2782974.html",
+      "title": "\"GỌNG KÌM\" tăng trưởng FPT - FRT: khi công nghệ cốt lõi hòa quyện cùng hệ sinh thái bán lẻ dược phẩm",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/cong-thuc-dinh-duong-fdi-cua-nutifood-duoc-hoa-ky-cap-bang-sang-che-102260515143300404.htm",
+      "title": "Công thức dinh dưỡng FDI của Nutifood được Hoa Kỳ cấp bằng sáng chế",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-15",
+      "sent_at": "2026-05-15T21:11",
+      "session": "Chiều"
     }
   ],
-  "total_sent": 1040,
-  "last_updated": "2026-05-15T13:54"
+  "total_sent": 1060,
+  "last_updated": "2026-05-15T21:11"
 }
