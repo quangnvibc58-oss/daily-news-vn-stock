@@ -1,262 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://24hmoney.vn/news/tai-sao-dau-tu-cong-la-cuu-canh-bat-buoc-cho-tang-truong-gdp-2026-c30a2772610.html",
-      "title": "Tại sao đầu tư công là \"cứu cánh\" bắt buộc cho tăng trưởng GDP 2026?",
-      "category": "vi_mo_viet_nam",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T12:41",
-      "session": "Sáng"
-    },
-    {
-      "url": "https://24hmoney.vn/news/theo-dau-giai-ngan-dau-tu-cong-ky-luc-8-22-trieu-ty-va-nhung-doanh-nghiep-huong-loi-c30a2772533.html",
-      "title": "Theo dấu giải ngân đầu tư công: Kỷ lục 8,22 triệu tỷ và những doanh nghiệp hưởng lợi",
-      "category": "vi_mo_viet_nam",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T12:41",
-      "session": "Sáng"
-    },
-    {
-      "url": "https://baochinhphu.vn/pho-thu-tuong-thuong-truc-pham-gia-tuc-cat-giam-thu-tuc-hanh-chinh-nhung-khong-buong-long-quan-ly-102260417210834895.htm",
-      "title": "Phó Thủ tướng Thường trực Phạm Gia Túc: Cắt giảm thủ tục hành chính nhưng không buông lỏng quản lý",
-      "category": "vi_mo_viet_nam",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T12:41",
-      "session": "Sáng"
-    },
-    {
-      "url": "https://24hmoney.vn/news/vic-co-con-diem-giai-ngan-vn-index-vuot-1820-sau-dao-han-phai-sinh-16-4-c30a2773138.html",
-      "title": "VIC có còn điểm giải ngân? Vn-index vượt 1820 sau đáo hạn phái sinh 16/4",
-      "category": "thi_truong",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T12:41",
-      "session": "Sáng"
-    },
-    {
-      "url": "https://24hmoney.vn/news/vn-index-15-04-2026-bung-no-truoc-tin-hieu-hoa-binh-toan-cau-nhom-bluechips-dan-dat-cuoc-choi-c30a2772271.html",
-      "title": "VN-INDEX 15/04/2026 Bùng Nổ Trước Tín Hiệu Hòa Bình Toàn Cầu: Nhóm Bluechips Dẫn Dắt Cuộc Chơi",
-      "category": "thi_truong",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T12:41",
-      "session": "Sáng"
-    },
-    {
-      "url": "https://24hmoney.vn/news/chien-luoc-17-04-2026-quan-sat-dong-tien-khi-co-nhip-tra-diem-ve-vung-1794-1806-diem-c30a2773147.html",
-      "title": "Chiến lược 17.04.2026: Quan sát dòng tiền khi có nhịp “trả điểm” về vùng 1794-1806 điểm",
-      "category": "thi_truong",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T12:41",
-      "session": "Sáng"
-    },
-    {
-      "url": "https://24hmoney.vn/news/vn-index-17-04-2026-shb-khop-atc-khung-keo-tru-la-rui-ro-c30a2773008.html",
-      "title": "VN-INDEX 17/04/2026: SHB khớp ATC khủng - Kéo trụ là rủi ro?",
-      "category": "thi_truong",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T12:41",
-      "session": "Sáng"
-    },
-    {
-      "url": "https://cafef.vn/cap-nhat-bctc-quy-1-2026-ngay-18-4-nhieu-doanh-nghiep-tang-bang-lan-188260418074139939.chn",
-      "title": "Cập nhật BCTC quý 1/2026 ngày 18/4: Nhiều doanh nghiệp tăng bằng lần",
-      "category": "thi_truong",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T12:41",
-      "session": "Sáng"
-    },
-    {
-      "url": "https://cafef.vn/ong-trump-iran-dang-go-toan-bo-thuy-loi-tai-hormuz-duoi-su-ho-tro-cua-my-188260417224622395.chn",
-      "title": "Ông Trump: Iran đang gỡ toàn bộ thủy lôi tại Hormuz 'dưới sự hỗ trợ của Mỹ'",
-      "category": "the_gioi",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T12:41",
-      "session": "Sáng"
-    },
-    {
-      "url": "https://baochinhphu.vn/agribank-dan-von-tam-nong-ho-tro-nen-kinh-te-102260418115916229.htm",
-      "title": "Agribank dẫn vốn 'Tam nông', hỗ trợ nền kinh tế",
-      "category": "doanh_nghiep",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T12:41",
-      "session": "Sáng"
-    },
-    {
-      "url": "https://cafef.vn/mot-doanh-nghiep-chot-ngay-tra-co-tuc-90-bang-tien-mat-188260418070038243.chn",
-      "title": "Một doanh nghiệp chốt ngày trả cổ tức 90% bằng tiền mặt",
-      "category": "doanh_nghiep",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T12:41",
-      "session": "Sáng"
-    },
-    {
-      "url": "https://cafef.vn/dhdcd-ngan-hang-mb-co-dong-thac-mac-ke-hoach-chia-co-tuc-chu-tich-luu-trung-thai-noi-gi-188260418083800428.chn",
-      "title": "ĐHĐCĐ Ngân hàng MB: Cổ đông thắc mắc kế hoạch chia cổ tức, Chủ tịch Lưu Trung Thái nói gì?",
-      "category": "doanh_nghiep",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T12:41",
-      "session": "Sáng"
-    },
-    {
-      "url": "https://baochinhphu.vn/cap-nhat-bo-sung-chuong-trinh-hanh-dong-cua-chinh-phu-thuc-hien-ke-hoach-phat-trien-ktxh-tai-chinh-quoc-gia-dau-tu-cong-trung-han-5-nam-2026-2030-1022604181215391.htm",
-      "title": "Cập nhật, bổ sung Chương trình hành động của Chính phủ thực hiện Kế hoạch phát triển KTXH, tài chính quốc gia, đầu tư công trung hạn 5 năm 2026- 2030",
-      "category": "vi_mo_viet_nam",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
-      "url": "https://baochinhphu.vn/giam-doc-quoc-gia-adb-tang-truong-tich-cuc-vi-the-viet-nam-vung-chac-trong-khu-vuc-102260416100910315.htm",
-      "title": "Giám đốc quốc gia ADB: Tăng trưởng tích cực, vị thế Việt Nam vững chắc trong khu vực",
-      "category": "vi_mo_viet_nam",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
-      "url": "https://24hmoney.vn/news/hdbank-hdb-vua-han-muc-va-nghe-thuat-di-tren-day-kep-danh-doi-de-but-pha-c30a2772518.html",
-      "title": "HDBank (HDB) - \"Vua hạn mức\" và nghệ thuật đi trên dây kép: đánh đổi để bứt phá?",
-      "category": "vi_mo_viet_nam",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
-      "url": "https://baochinhphu.vn/de-xang-e10-nhanh-chong-di-vao-thuc-tien-102260417175401453.htm",
-      "title": "Để xăng E10 nhanh chóng đi vào thực tiễn",
-      "category": "vi_mo_viet_nam",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
-      "url": "https://24hmoney.vn/news/phan-tich-co-phieu-ssi-vci-mbs-tao-day-chua-co-nen-mua-gom-c30a2773057.html",
-      "title": "Phân Tích Cổ Phiếu SSI, VCI, MBS: Tạo Đáy Chưa, Có Nên Mua Gom?",
-      "category": "thi_truong",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
-      "url": "https://24hmoney.vn/news/vic-dua-vn-index-tro-lai-hit-tho-bau-khong-khi-1-800-c1a2773730.html",
-      "title": "VIC đưa VN-Index trở lại hít thở bầu không khí 1,800",
-      "category": "thi_truong",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
-      "url": "https://24hmoney.vn/news/dong-tien-rut-khoi-nhom-co-phieu-vingroup-va-lan-toa-dau-se-la-co-hoi-dau-tu-tiep-theo-c30a2773340.html",
-      "title": "Dòng tiền rút khỏi nhóm cổ phiếu Vingroup và lan tỏa - Đâu sẽ là cơ hội đầu tư tiếp theo?",
-      "category": "thi_truong",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
-      "url": "https://24hmoney.vn/news/phan-tich-ky-thuat-1-ma-ngan-hang-dang-chuan-bi-breakout-c30a2773268.html",
-      "title": "Phân Tích Kỹ Thuật: 1 Mã Ngân Hàng Đang Chuẩn Bị Breakout!",
-      "category": "thi_truong",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
-      "url": "https://baochinhphu.vn/ngan-hang-va-cong-ty-chung-khoan-tang-toc-tai-cau-truc-tang-truong-di-cung-chon-loc-102260418185642498.htm",
-      "title": "Ngân hàng và công ty chứng khoán tăng tốc tái cấu trúc: Tăng trưởng đi cùng chọn lọc",
-      "category": "thi_truong",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
-      "url": "https://24hmoney.vn/news/co-phieu-viw-tang-130-sau-khi-ong-to-dung-lam-chu-tich-vcg-muon-thoai-hon-70-von-c1a2773717.html",
-      "title": "Cổ phiếu VIW tăng 130% sau khi ông Tô Dũng làm Chủ tịch, VCG muốn thoái hơn 70% vốn",
-      "category": "thi_truong",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
-      "url": "https://24hmoney.vn/news/tin-tot-ai-khong-cuu-noi-gia-fpt-ky-deal-chuc-trieu-usd-nhung-van-bi-xa-hon-7-trieu-co-phieu-c30a2772946.html",
-      "title": "Tin tốt ai không cứu nổi giá? FPT ký deal chục triệu USD nhưng vẫn bị “xả” hơn 7 triệu cổ phiếu",
-      "category": "thi_truong",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
-      "url": "https://24hmoney.vn/news/dong-tien-luan-chuyen-muot-ma-khoi-ho-vin-va-dau-vet-tim-den-3-nhom-co-phieu-huong-loi-lon-nhat-c30a2773222.html",
-      "title": "Dòng tiền luân chuyển mượt mà khỏi họ Vin và dấu vết tìm đến 3 nhóm cổ phiếu hưởng lợi lớn nhất",
-      "category": "thi_truong",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
-      "url": "https://24hmoney.vn/news/my-san-sang-kich-hoat-lenh-nem-bom-iran-c28a2773732.html",
-      "title": "Mỹ sẵn sàng kích hoạt lệnh ném bom Iran?",
-      "category": "the_gioi",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
-      "url": "https://24hmoney.vn/news/iran-tai-ap-dat-han-che-voi-eo-bien-hormuz-c28a2773697.html",
-      "title": "Iran tái áp đặt hạn chế với eo biển Hormuz",
-      "category": "the_gioi",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
-      "url": "https://24hmoney.vn/news/my-iran-ra-tuyen-bo-trai-nguoc-ve-kho-uranium-lam-giau-c28a2773559.html",
-      "title": "Mỹ, Iran ra tuyên bố trái ngược về kho uranium làm giàu",
-      "category": "the_gioi",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
-      "url": "https://24hmoney.vn/news/dang-lo-ngai-van-chua-co-tau-nao-di-qua-hormuz-c28a2773577.html",
-      "title": "Đáng lo ngại, vẫn chưa có tàu nào đi qua Hormuz",
-      "category": "the_gioi",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
-      "url": "https://cafef.vn/nong-mwg-uoc-lai-quy-1-2026-tang-truong-80-so-voi-cung-ky-188260418160602524.chn",
-      "title": "Nóng: MWG ước lãi quý 1/2026 tăng trưởng 80% so với cùng kỳ",
-      "category": "doanh_nghiep",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
-      "url": "https://24hmoney.vn/news/tham-vong-vuot-moc-105-000-ty-dong-von-dieu-le-cua-bidv-c1a2773737.html",
-      "title": "Tham vọng vượt mốc 105.000 tỷ đồng vốn điều lệ của BIDV",
-      "category": "doanh_nghiep",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
-      "url": "https://baochinhphu.vn/shs-thong-qua-ke-hoach-2026-tang-von-vuot-10000-ty-dong-102260417201307422.htm",
-      "title": "SHS thông qua kế hoạch 2026, tăng vốn vượt 10.000 tỷ đồng",
-      "category": "doanh_nghiep",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
-      "url": "https://24hmoney.vn/news/ceo-masan-chi-hon-300-ty-dong-mua-co-phieu-truoc-them-dhdcd-2026-c30a2772461.html",
-      "title": "CEO Masan chi hơn 300 tỷ đồng mua cổ phiếu trước thềm ĐHĐCĐ 2026",
-      "category": "doanh_nghiep",
-      "date_sent": "2026-04-18",
-      "sent_at": "2026-04-18T20:07",
-      "session": "Chiều"
-    },
-    {
       "url": "https://baochinhphu.vn/dua-nong-san-len-san-thuong-mai-dien-tu-huong-di-chien-luoc-cho-kinh-te-so-nong-nghiep-live-10226041807244983.htm",
       "title": "Đưa nông sản lên sàn thương mại điện tử: Hướng đi chiến lược cho kinh tế số nông nghiệp",
       "category": "vi_mo_viet_nam",
@@ -8479,8 +8223,168 @@
       "date_sent": "2026-05-18",
       "sent_at": "2026-05-18T22:36",
       "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/thanh-lap-doan-dam-phan-chinh-phu-ve-kinh-te-va-thuong-mai-quoc-te-102260518182750048.htm",
+      "title": "Thành lập Đoàn đàm phán Chính phủ về kinh tế và thương mại quốc tế",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://baochinhphu.vn/bo-xay-dung-cong-bo-cat-giam-don-gian-hoa-gan-300-thu-tuc-hanh-chinh-102260519141955695.htm",
+      "title": "Bộ Xây dựng công bố cắt giảm, đơn giản hóa gần 300 thủ tục hành chính",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://baochinhphu.vn/khoi-cong-du-an-mo-rong-quoc-lo-1a-doan-qua-tp-ha-noi-102260519102014994.htm",
+      "title": "Khởi công dự án mở rộng Quốc lộ 1A đoạn qua TP. Hà Nội",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://baochinhphu.vn/pho-thu-tuong-le-tien-chau-du-le-khoi-cong-mat-xich-quan-trong-tren-tuyen-duong-bo-ha-noi-vientiane-102260518170058253.htm",
+      "title": "Phó Thủ tướng Lê Tiến Châu dự Lễ khởi công 'mắt xích' quan trọng trên tuyến đường bộ Hà Nội-Vientiane",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/4-nguyen-tac-dau-tu-cua-warren-buffett-ma-90-nha-dau-tu-khong-biet-c30a2784396.html",
+      "title": "4 Nguyên Tắc Đầu Tư Của Warren Buffett Mà 90% Nhà Đầu Tư Không Biết",
+      "category": "thi_truong",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://baochinhphu.vn/ubcknn-lam-viec-voi-ftse-russell-ve-buoc-tiep-theo-sau-nang-hang-thi-truong-chung-khoan-1022604152210479.htm",
+      "title": "UBCKNN làm việc với FTSE Russell về bước tiếp theo sau nâng hạng thị trường chứng khoán",
+      "category": "thi_truong",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/chung-khoan-hom-nay-18-05-cho-cu-ru-bo-cuoi-c30a2783910.html",
+      "title": "Chứng khoán hôm nay 18/05 :Chờ cú rũ bỏ cuối",
+      "category": "thi_truong",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/lam-phat-dinh-tre-boi-canh-hien-tai-khong-giong-hoan-toan-thap-nien-1970-c30a2784196.html",
+      "title": "Lạm phát đình trệ: Bối cảnh hiện tại KHÔNG giống hoàn toàn thập niên 1970?",
+      "category": "thi_truong",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://baochinhphu.vn/ubcknn-canh-bao-tu-van-chung-khoan-trai-phep-tren-mang-102260417181257955.htm",
+      "title": "UBCKNN cảnh báo tư vấn chứng khoán trái phép trên mạng",
+      "category": "thi_truong",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/gia-dau-giam-sau-sau-dong-thai-bat-ngo-cua-ong-trump-voi-iran-c25a2784633.html",
+      "title": "Giá dầu giảm sâu sau động thái bất ngờ của ông Trump với Iran",
+      "category": "thi_truong",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/iea-ton-kho-dau-thuong-mai-chi-con-du-dung-trong-vai-tuan-c28a2784746.html",
+      "title": "IEA: Tồn kho dầu thương mại chỉ còn đủ dùng trong vài tuần",
+      "category": "thi_truong",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/thuong-dinh-my-trung-quoc-tai-bac-kinh-cai-bat-tay-10-giay-va-cuoc-mac-ca-thuc-dung-giua-hai-sieu-cuong-c30a2784088.html",
+      "title": "Thượng đỉnh Mỹ - Trung Quốc tại Bắc Kinh: cái bắt tay 10 giây và cuộc mặc cả thực dụng giữa hai siêu cường",
+      "category": "the_gioi",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/lenh-hoan-binh-vao-phut-chot-cua-nha-trang-c28a2784613.html",
+      "title": "Lệnh hoãn binh vào phút chót của Nhà Trắng",
+      "category": "the_gioi",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/iran-trien-khai-dich-vu-bao-hiem-hang-hai-qua-eo-bien-hormuz-tra-bang-bitcoin-lieu-ke-hoach-nay-co-hieu-qua-c28a2784777.html",
+      "title": "Iran triển khai dịch vụ bảo hiểm hàng hải qua eo biển Hormuz trả bằng Bitcoin: Liệu kế hoạch này có hiệu quả?",
+      "category": "the_gioi",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://baochinhphu.vn/mo-dai-hung-hoi-sinh-bang-cong-nghe-va-ban-linh-nguoi-dau-khi-10226051811003593.htm",
+      "title": "Mỏ Đại Hùng: 'Hồi sinh' bằng công nghệ và bản lĩnh người dầu khí",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://cafef.vn/mot-ngan-hang-it-ai-nghi-den-co-ty-le-no-xau-gan-thap-nhat-he-thong-thap-hon-ca-acb-techcombank-vietinbank-188260519091512069.chn",
+      "title": "Một ngân hàng ít ai nghĩ đến có tỷ lệ nợ xấu gần thấp nhất hệ thống, thấp hơn cả ACB, Techcombank, VietinBank,…",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://cafef.vn/ty-phu-tran-dinh-long-muon-phan-phoi-dien-ban-le-o-to-giuong-tu-188260518221034723.chn",
+      "title": "Tỷ phú Trần Đình Long muốn phân phối điện, bán lẻ ô tô, giường tủ",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://cafef.vn/chu-tich-pham-minh-huong-co-hoi-lon-chua-tung-co-dang-mo-ra-vndirect-chuan-bi-comeback-188260518224957016.chn",
+      "title": "Chủ tịch Phạm Minh Hương: Cơ hội lớn chưa từng có đang mở ra, VNDirect chuẩn bị \"comeback\"",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/vndirect-vnd-dat-muc-tieu-loi-nhuan-hon-3-000-ty-dong-trong-nam-2026-c1a2784779.html",
+      "title": "VNDirect (VND) đặt mục tiêu lợi nhuận hơn 3.000 tỷ đồng trong năm 2026",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
+    },
+    {
+      "url": "https://24hmoney.vn/news/co-phieu-vpb-dong-luc-nao-cho-nam-2026-c30a2783759.html",
+      "title": "Cổ phiếu VPB - Động lực nào cho năm 2026?",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-19",
+      "sent_at": "2026-05-19T14:44",
+      "session": "Sáng"
     }
   ],
-  "total_sent": 1060,
-  "last_updated": "2026-05-18T22:36"
+  "total_sent": 1048,
+  "last_updated": "2026-05-19T14:44"
 }
