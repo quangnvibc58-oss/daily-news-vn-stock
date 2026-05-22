@@ -8279,8 +8279,128 @@
       "date_sent": "2026-05-22",
       "sent_at": "2026-05-22T14:42",
       "session": "Sáng"
+    },
+    {
+      "url": "https://cafef.vn/ngan-hang-nha-nuoc-vao-cuoc-viec-tang-lai-suat-huy-dong-188260522155716463.chn",
+      "title": "Ngân hàng Nhà nước vào cuộc việc tăng lãi suất huy động",
+      "category": "thi_truong",
+      "date_sent": "2026-05-22",
+      "sent_at": "2026-05-22T21:43",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/khoang-105000-nguoi-kinh-doanh-bi-tam-hoan-xuat-canh-voi-thue-no-61000-ty-dong-102260522153808967.htm",
+      "title": "Cục Thuế thông tin về tạm hoãn xuất cảnh do nợ thuế",
+      "category": "thi_truong",
+      "date_sent": "2026-05-22",
+      "sent_at": "2026-05-22T21:43",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/ngan-hang-phai-tien-phong-chuyen-doi-so-102260522174213595.htm",
+      "title": "Ngân hàng phải tiên phong chuyển đổi số",
+      "category": "thi_truong",
+      "date_sent": "2026-05-22",
+      "sent_at": "2026-05-22T21:43",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/ngan-hang-nha-nuoc-yeu-cau-thanh-tra-nha-bang-tang-lai-suat-c4a2786190.html",
+      "title": "Ngân hàng Nhà nước yêu cầu thanh tra nhà băng tăng lãi suất",
+      "category": "thi_truong",
+      "date_sent": "2026-05-22",
+      "sent_at": "2026-05-22T21:43",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/nhom-nq79-giam-san-hang-loat-chuyen-gi-dang-dien-ra-c30a2785039.html",
+      "title": "Nhóm NQ79 giảm sàn hàng loạt, chuyện gì đang diễn ra?",
+      "category": "thi_truong",
+      "date_sent": "2026-05-22",
+      "sent_at": "2026-05-22T21:43",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/mot-co-phieu-bi-khoi-ngoai-xa-1500-ty-dong-phien-22-5-188260522152017389.chn",
+      "title": "Khối ngoại bán ròng hơn 3.200 tỷ đồng phiên 22/5",
+      "category": "thi_truong",
+      "date_sent": "2026-05-22",
+      "sent_at": "2026-05-22T21:43",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/thi-truong-an-mung-keo-vuot-dinh-lich-su-c30a2784659.html",
+      "title": "Thị trường ăn mừng kéo vượt đỉnh lịch sử",
+      "category": "thi_truong",
+      "date_sent": "2026-05-22",
+      "sent_at": "2026-05-22T21:43",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/vn-index-mat-gan-20-diem-mot-co-phieu-van-toa-sang-188260522173237154.chn",
+      "title": "VN-Index mất gần 20 điểm, một cổ phiếu vẫn \"tỏa sáng\"",
+      "category": "thi_truong",
+      "date_sent": "2026-05-22",
+      "sent_at": "2026-05-22T21:43",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/chenh-lech-kho-tin-my-ton-that-may-bay-cao-gap-nhieu-lan-israel-trong-xung-dot-voi-iran-c28a2786083.html",
+      "title": "Chênh lệch khó tin: Mỹ tổn thất máy bay cao gấp nhiều lần Israel trong xung đột với Iran",
+      "category": "the_gioi",
+      "date_sent": "2026-05-22",
+      "sent_at": "2026-05-22T21:43",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/vi-ty-phu-tiet-lo-ly-do-chuyen-huong-tat-tay-sang-vang-va-bac-c25a2786184.html",
+      "title": "Vị tỷ phú tiết lộ lý do chuyển hướng \"tất tay\" sang vàng và bạc",
+      "category": "the_gioi",
+      "date_sent": "2026-05-22",
+      "sent_at": "2026-05-22T21:43",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/de-xuat-sua-tieu-chi-xac-dinh-doanh-nghiep-nho-va-vua-102260522185259677.htm",
+      "title": "Đề xuất sửa tiêu chí xác định doanh nghiệp nhỏ và vừa",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-22",
+      "sent_at": "2026-05-22T21:43",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/giai-oan-hai-chu-bao-hoa-cua-thi-truong-dien-may-dmx-dan-dat-san-choi-tang-truong-2-chu-so-c30a2785132.html",
+      "title": "Giải oan hai chữ “bão hoà” của thị trường điện máy - DMX dẫn dắt sân chơi tăng trưởng 2 chữ số",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-22",
+      "sent_at": "2026-05-22T21:43",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/tt-group-dang-hien-dien-tren-nhung-mach-mau-kinh-te-moi-nhu-the-nao-188260522074241878.chn",
+      "title": "T&T Group đang hiện diện trên những \"mạch máu\" kinh tế mới như thế nào?",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-22",
+      "sent_at": "2026-05-22T21:43",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/dien-may-xanh-duoc-chap-thuan-ho-so-ipo-chao-ban-hon-1795-trieu-co-phieu-gia-du-kien-80000-dong-188260522131537839.chn",
+      "title": "Điện Máy Xanh được chấp thuận hồ sơ IPO chào bán hơn 179,5 triệu cổ phiếu, giá dự kiến 80.000 đồng",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-22",
+      "sent_at": "2026-05-22T21:43",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/vnpt-kddi-cong-bo-hop-tac-chien-luoc-va-ra-mat-thuong-hieu-vien-thong-di-dong-moi-102260522105411854.htm",
+      "title": "VNPT - KDDI công bố hợp tác chiến lược và ra mắt thương hiệu viễn thông di động mới",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-22",
+      "sent_at": "2026-05-22T21:43",
+      "session": "Chiều"
     }
   ],
-  "total_sent": 1035,
-  "last_updated": "2026-05-22T14:42"
+  "total_sent": 1050,
+  "last_updated": "2026-05-22T21:43"
 }
