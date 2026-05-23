@@ -8287,8 +8287,152 @@
       "date_sent": "2026-05-23",
       "sent_at": "2026-05-23T13:33",
       "session": "Sáng"
+    },
+    {
+      "url": "https://baochinhphu.vn/nganh-ngan-hang-thi-dua-tang-toc-chuyen-doi-so-102260523140405793.htm",
+      "title": "Ngành ngân hàng thi đua tăng tốc chuyển đổi số",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-05-23",
+      "sent_at": "2026-05-23T20:39",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/de-xuat-sua-quy-dinh-ve-dang-ky-tai-khoan-su-dung-he-thong-qua-canh-hai-quan-asean-102260522182126207.htm",
+      "title": "Đề xuất sửa quy định về đăng ký tài khoản sử dụng Hệ thống quá cảnh hải quan ASEAN",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-05-23",
+      "sent_at": "2026-05-23T20:39",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/gia-vang-hom-nay-21-05-2026-c30a2785592.html",
+      "title": "Giá vàng hôm nay 21/05/2026",
+      "category": "thi_truong",
+      "date_sent": "2026-05-23",
+      "sent_at": "2026-05-23T20:39",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/sau-chi-dao-nong-tu-thong-doc-ngan-hang-nha-nuoc-lai-suat-gui-tiet-kiem-cao-nhat-bao-nhieu-c4a2786414.html",
+      "title": "Sau chỉ đạo \"nóng\" từ Thống đốc Ngân hàng Nhà nước, lãi suất gửi tiết kiệm cao nhất bao nhiêu?",
+      "category": "thi_truong",
+      "date_sent": "2026-05-23",
+      "sent_at": "2026-05-23T20:39",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/gia-vang-rot-tham-nhieu-nguoi-quay-xe-gui-tiet-kiem-ngan-hang-188260523104559324.chn",
+      "title": "Giá vàng rớt thảm, nhiều người \"quay xe\" gửi tiết kiệm ngân hàng",
+      "category": "thi_truong",
+      "date_sent": "2026-05-23",
+      "sent_at": "2026-05-23T20:39",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/ngan-hang-nha-nuoc-hien-tuong-ca-biet-mot-so-ngan-hang-dieu-chinh-tang-lai-suat-188260523103557586.chn",
+      "title": "Ngân hàng Nhà nước: Hiện tượng cá biệt một số ngân hàng điều chỉnh tăng lãi suất",
+      "category": "thi_truong",
+      "date_sent": "2026-05-23",
+      "sent_at": "2026-05-23T20:39",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/noi-buon-tren-dinh-moi-cua-vn-index-xu-huong-dong-tien-c30a2784936.html",
+      "title": "Nỗi buồn trên đỉnh mới của VN-Index | Xu hướng dòng tiền",
+      "category": "thi_truong",
+      "date_sent": "2026-05-23",
+      "sent_at": "2026-05-23T20:39",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/ha-vien-my-tai-khoi-dong-du-luat-quy-du-tru-bitcoin-c4a2786300.html",
+      "title": "Hạ viện Mỹ tái khởi động dự luật quỹ dự trữ Bitcoin",
+      "category": "thi_truong",
+      "date_sent": "2026-05-23",
+      "sent_at": "2026-05-23T20:39",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/thi-truong-chung-khoan-22-05-2026-c30a2785943.html",
+      "title": "Thị trường chứng khoán 22/05/2026",
+      "category": "thi_truong",
+      "date_sent": "2026-05-23",
+      "sent_at": "2026-05-23T20:39",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/danh-gia-toan-dien-vpb-nam-2026-sieu-game-tang-von-su-tro-lai-cua-nha-vua-tin-dung-c30a2785948.html",
+      "title": "Đánh giá toàn diện VPB năm 2026: siêu game tăng vốn & sự trở lại của \"nhà vua\" tín dụng",
+      "category": "thi_truong",
+      "date_sent": "2026-05-23",
+      "sent_at": "2026-05-23T20:39",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/dau-tho-giam-ho-tro-gia-kim-loai-tang-c30a2785692.html",
+      "title": "Dầu thô giảm hỗ trợ giá kim loại tăng",
+      "category": "the_gioi",
+      "date_sent": "2026-05-23",
+      "sent_at": "2026-05-23T20:39",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/my-hut-hoi-tren-bau-troi-iran-c28a2786254.html",
+      "title": "Mỹ \"hụt hơi\" trên bầu trời Iran",
+      "category": "the_gioi",
+      "date_sent": "2026-05-23",
+      "sent_at": "2026-05-23T20:39",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/my-san-sang-cho-kich-ban-moi-c28a2786422.html",
+      "title": "Mỹ sẵn sàng cho kịch bản mới?",
+      "category": "the_gioi",
+      "date_sent": "2026-05-23",
+      "sent_at": "2026-05-23T20:39",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/bot-cau-rach-mieu-hoan-von-som-dung-thu-phi-tu-thang-9-2026-102260522152224301.htm",
+      "title": "BOT cầu Rạch Miễu hoàn vốn sớm, dừng thu phí từ tháng 9/2026",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-23",
+      "sent_at": "2026-05-23T20:39",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/co-may-san-xuat-1-trieu-qua-trung-ngay-cua-ty-phu-tran-dinh-long-nuoi-12-trieu-con-ga-van-hanh-bang-robot-chau-au-188260523130733942.chn",
+      "title": "\"Cỗ máy\" sản xuất 1 triệu quả trứng/ngày của tỷ phú Trần Đình Long: Nuôi 1,2 triệu con gà, vận hành bằng robot châu Âu",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-23",
+      "sent_at": "2026-05-23T20:39",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/dien-may-xanh-mua-hang-tu-dau-apple-tang-75-len-gan-26000-ty-dong-samsung-di-lui-188260523092936077.chn",
+      "title": "Điện Máy Xanh mua hàng từ đâu: Apple tăng 75% lên gần 26.000 tỷ đồng, Samsung đi lùi",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-23",
+      "sent_at": "2026-05-23T20:39",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/hoa-chat-duc-giang-dgc-phat-thong-bao-quan-trong-ve-co-phieu-188260523000315353.chn",
+      "title": "Hóa chất Đức Giang (DGC) phát thông báo quan trọng về cổ phiếu",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-23",
+      "sent_at": "2026-05-23T20:39",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/vinfast-cong-bo-logo-rieng-cho-dong-xe-green-hoan-thien-bo-nhan-dien-cho-3-thuong-hieu-o-to-c50a2786397.html",
+      "title": "VinFast công bố logo riêng cho dòng xe Green - hoàn thiện bộ nhận diện cho 3 thương hiệu ô tô",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-23",
+      "sent_at": "2026-05-23T20:39",
+      "session": "Chiều"
     }
   ],
-  "total_sent": 1036,
-  "last_updated": "2026-05-23T13:33"
+  "total_sent": 1054,
+  "last_updated": "2026-05-23T20:39"
 }
