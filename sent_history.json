@@ -8199,8 +8199,136 @@
       "date_sent": "2026-05-31",
       "sent_at": "2026-05-31T14:44",
       "session": "Sáng"
+    },
+    {
+      "url": "https://cafef.vn/danh-sach-25-ngan-hang-vua-duoc-dieu-chinh-room-tin-dung-bat-dong-san-188260531115817141.chn",
+      "title": "Danh sách 25 ngân hàng vừa được điều chỉnh \"room\" tín dụng bất động sản",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-05-31",
+      "sent_at": "2026-05-31T20:48",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/cac-hang-xe-len-tieng-ve-do-tuong-thich-voi-xang-e10-102260531185344513.htm",
+      "title": "Các hãng xe lên tiếng về độ tương thích với xăng E10",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-05-31",
+      "sent_at": "2026-05-31T20:48",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/xang-e10-ap-dung-toan-quoc-chu-xe-can-luu-y-nhung-gi-c25a2789205.html",
+      "title": "Xăng E10 áp dụng toàn quốc: Chủ xe cần lưu ý những gì?",
+      "category": "thi_truong",
+      "date_sent": "2026-05-31",
+      "sent_at": "2026-05-31T20:48",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/thuc-trang-nhom-nganh-ngan-hang-chung-khoan-dang-o-thai-cuc-nao-c30a2788664.html",
+      "title": "Thực trạng nhóm ngành ngân hàng, chứng khoán đang ở thái cực nào?",
+      "category": "thi_truong",
+      "date_sent": "2026-05-31",
+      "sent_at": "2026-05-31T20:48",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/chung-khoan-hom-nay-co-phieu-ngan-hang-thuc-giac-vn-index-but-qua-1895-co-xu-huong-tang-moi-c30a2787988.html",
+      "title": "Chứng khoán hôm nay: Cổ phiếu ngân hàng “thức giấc”, VN-Index bứt qua 1895, Có xu hướng tăng mới?",
+      "category": "thi_truong",
+      "date_sent": "2026-05-31",
+      "sent_at": "2026-05-31T20:48",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/vang-ha-nhiet-nhu-cau-tai-an-do-va-trung-quoc-dong-loat-chung-lai-c30a2788684.html",
+      "title": "Vàng hạ nhiệt, nhu cầu tại Ấn Độ và Trung Quốc đồng loạt chững lại",
+      "category": "thi_truong",
+      "date_sent": "2026-05-31",
+      "sent_at": "2026-05-31T20:48",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/quet-khuon-mat-bao-mat-giao-dich-chung-khoan-toi-uu-c30a2788226.html",
+      "title": "Quét Khuôn Mặt: Bảo Mật Giao Dịch Chứng Khoán Tối Ưu",
+      "category": "thi_truong",
+      "date_sent": "2026-05-31",
+      "sent_at": "2026-05-31T20:48",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/goc-nhin-chuyen-gia-xuat-hien-dau-hieu-index-tao-day-tan-dung-co-hoi-san-nhom-co-phieu-co-cau-chuyen-rieng-188260530233722712.chn",
+      "title": "Góc nhìn chuyên gia: Xuất hiện dấu hiệu Index tạo đáy, tận dụng cơ hội \"săn\" nhóm cổ phiếu có câu chuyện riêng",
+      "category": "thi_truong",
+      "date_sent": "2026-05-31",
+      "sent_at": "2026-05-31T20:48",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-dau-thang-6-hon-30-doanh-nghiep-lan-chot-mot-cai-ten-sap-tra-co-tuc-tien-mat-ky-luc-188260530224514684.chn",
+      "title": "Lịch chốt quyền cổ tức tuần đầu tháng 6: Hơn 30 doanh nghiệp \"lăn chốt\", một cái tên sắp trả cổ tức tiền mặt kỷ lục",
+      "category": "thi_truong",
+      "date_sent": "2026-05-31",
+      "sent_at": "2026-05-31T20:48",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/dong-usd-suy-yeu-nhung-tai-sao-dong-tien-van-chay-ve-my-c30a2788853.html",
+      "title": "Đồng USD suy yếu nhưng tại sao dòng tiền vẫn chảy về Mỹ ?",
+      "category": "the_gioi",
+      "date_sent": "2026-05-31",
+      "sent_at": "2026-05-31T20:48",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/openai-rot-dai-tan-vuong-tri-gia-965-ty-usd-chinh-thuc-lo-dien-c77a2788515.html",
+      "title": "OpenAI rớt đài! \"Tân vương\" trị giá 965 tỷ USD chính thức lộ diện",
+      "category": "the_gioi",
+      "date_sent": "2026-05-31",
+      "sent_at": "2026-05-31T20:48",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/ong-doan-van-hieu-em-dien-may-xanh-se-vuot-ke-hoach-dinh-gia-dang-qua-re-c30a2788480.html",
+      "title": "Ông Đoàn Văn Hiểu Em: Điện Máy Xanh sẽ vượt kế hoạch, định giá đang quá rẻ",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-31",
+      "sent_at": "2026-05-31T20:48",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/hai-thang-thu-minh-mot-tuan-but-pha-dang-kinh-ngac-cua-acb-c30a2788125.html",
+      "title": "Hai tháng thu mình - Một tuần bứt phá đáng kinh ngạc của ACB",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-31",
+      "sent_at": "2026-05-31T20:48",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/ong-trinh-van-quyet-tai-xuat-tai-flc-c1a2789207.html",
+      "title": "Ông Trịnh Văn Quyết tái xuất tại FLC",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-31",
+      "sent_at": "2026-05-31T20:48",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/ceo-pharmacity-he-thong-nha-thuoc-tu-nhan-la-canh-tay-noi-dai-cua-y-te-cong-102260530205401163.htm",
+      "title": "CEO Pharmacity: Hệ thống nhà thuốc tư nhân là \"cánh tay nối dài\" của y tế công",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-31",
+      "sent_at": "2026-05-31T20:48",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/pvcfc-duoc-duoc-vinh-danh-o-3-hang-muc-tai-vietnam-i4-impact-awards-2026-102260531190719916.htm",
+      "title": "PVCFC:  Được được vinh danh ở 3 hạng mục tại Vietnam I4 Impact Awards 2026",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-05-31",
+      "sent_at": "2026-05-31T20:48",
+      "session": "Chiều"
     }
   ],
-  "total_sent": 1025,
-  "last_updated": "2026-05-31T14:44"
+  "total_sent": 1041,
+  "last_updated": "2026-05-31T20:48"
 }
