@@ -8815,8 +8815,160 @@
       "date_sent": "2026-07-11",
       "sent_at": "2026-07-11T13:11",
       "session": "Sáng"
+    },
+    {
+      "url": "https://finance.vietstock.vn/lich-su-kien.htm?page=1",
+      "title": "LỊCH CỔ TỨC VÀ PHÁT HÀNH",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-07-11",
+      "sent_at": "2026-07-11T20:22",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/nganh-thuy-san-can-but-pha-de-chinh-phuc-muc-tieu-xuat-khau-102260710142544858.htm",
+      "title": "Ngành Thủy sản cần bứt phá để chinh phục mục tiêu xuất khẩu",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-07-11",
+      "sent_at": "2026-07-11T20:22",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/lan-dau-tien-cong-bo-bang-xep-hang-thu-nhap-binh-quan-thang-cua-34-tinh-thanh-sau-sap-nhap-dia-phuong-nao-dang-dan-dau-188260711090453958.chn",
+      "title": "Lần đầu tiên công bố bảng xếp hạng thu nhập bình quân tháng của 34 tỉnh, thành sau sáp nhập: Địa phương nào đang dẫn đầu?",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-07-11",
+      "sent_at": "2026-07-11T20:22",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/cach-xay-dung-quy-du-phong-3-6-thang-cho-nguoi-moi-c30a2804713.html",
+      "title": "Cách xây dựng quỹ dự phòng 3-6 tháng cho người mới",
+      "category": "vi_mo_viet_nam",
+      "date_sent": "2026-07-11",
+      "sent_at": "2026-07-11T20:22",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/xang-dau-vao-tam-ngam-c25a2805837.html",
+      "title": "Xăng dầu vào “tầm ngắm”",
+      "category": "thi_truong",
+      "date_sent": "2026-07-11",
+      "sent_at": "2026-07-11T20:22",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/nhieu-hang-ban-tren-san-online-gio-dat-hon-ngoai-cho-c25a2805836.html",
+      "title": "Nhiều hàng bán trên sàn online giờ đắt hơn ngoài chợ",
+      "category": "thi_truong",
+      "date_sent": "2026-07-11",
+      "sent_at": "2026-07-11T20:22",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/hau-het-nguoi-cam-kim-cuong-5-nam-qua-deu-lo-nang-khung-hoang-cua-nganh-kim-cuong-tu-nhien-c30a2805025.html",
+      "title": "Hầu hết người cầm kim cương 5 năm qua đều lỗ nặng... Khủng hoảng của ngành kim cương tự nhiên",
+      "category": "thi_truong",
+      "date_sent": "2026-07-11",
+      "sent_at": "2026-07-11T20:22",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/lanh-tu-toi-cao-iran-khang-dinh-se-bao-thu-c28a2805841.html",
+      "title": "Lãnh tụ Tối cao Iran khẳng định sẽ báo thù",
+      "category": "the_gioi",
+      "date_sent": "2026-07-11",
+      "sent_at": "2026-07-11T20:22",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/tt-trump-tuyen-bo-cung-neu-iran-de-doa-lanh-dao-my-ten-lua-se-khai-hoa-ngay-c28a2805801.html",
+      "title": "TT Trump tuyên bố cứng: Nếu Iran đe dọa lãnh đạo Mỹ, tên lửa sẽ khai hỏa ngay",
+      "category": "the_gioi",
+      "date_sent": "2026-07-11",
+      "sent_at": "2026-07-11T20:22",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/anh-ve-tinh-he-lo-iran-co-the-dang-xay-dung-lai-mot-so-dia-diem-hat-nhan-c28a2805797.html",
+      "title": "Ảnh vệ tinh hé lộ Iran có thể đang xây dựng lại một số địa điểm hạt nhân",
+      "category": "the_gioi",
+      "date_sent": "2026-07-11",
+      "sent_at": "2026-07-11T20:22",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/giot-nuoc-tran-ly-khien-ong-trump-huy-ngung-ban-voi-iran-c28a2805831.html",
+      "title": "'Giọt nước tràn ly' khiến ông Trump hủy ngừng bắn với Iran",
+      "category": "the_gioi",
+      "date_sent": "2026-07-11",
+      "sent_at": "2026-07-11T20:22",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/vietcombank-3-nam-lien-tiep-duoc-vinh-danh-noi-lam-viec-tot-nhat-chau-a-102260710120616081.htm",
+      "title": "Vietcombank 3 năm liên tiếp được vinh danh nơi làm việc tốt nhất châu Á",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-07-11",
+      "sent_at": "2026-07-11T20:22",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/pnj-se-dung-giam-khi-nao-c30a2803940.html",
+      "title": "PNJ sẽ dừng giảm khi nào?",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-07-11",
+      "sent_at": "2026-07-11T20:22",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/30-nam-coopmart-khang-dinh-vi-the-nguoi-noi-tro-cua-nhan-dan-102260711072239305.htm",
+      "title": "30 năm Co.opmart khẳng định vị thế \"Người nội trợ của nhân dân\"",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-07-11",
+      "sent_at": "2026-07-11T20:22",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/cap-nhat-bctc-quy-2-2026-ngay-11-7-xuat-hien-hai-doanh-nghiep-bao-lo-188260710231936594.chn",
+      "title": "Cập nhật BCTC quý 2/2026 ngày 11/7: Xuất hiện hai doanh nghiệp báo lỗ",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-07-11",
+      "sent_at": "2026-07-11T20:22",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://baochinhphu.vn/vpbank-vao-top-10-doanh-nghiep-tien-phong-thuc-day-tang-truong-xanh-ben-vung-102260708203000604.htm",
+      "title": "VPBank vào Top 10 doanh nghiệp tiên phong thúc đẩy tăng trưởng xanh bền vững",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-07-11",
+      "sent_at": "2026-07-11T20:22",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/flc-lam-du-an-nghi-duong-gan-12-ha-tai-sa-pa-c3a2805838.html",
+      "title": "FLC làm dự án nghỉ dưỡng gần 12 ha tại Sa Pa",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-07-11",
+      "sent_at": "2026-07-11T20:22",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://24hmoney.vn/news/gil-thua-kien-that-roi-c30a2805281.html",
+      "title": "GIL - Thua kiện thật rồi!",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-07-11",
+      "sent_at": "2026-07-11T20:22",
+      "session": "Chiều"
+    },
+    {
+      "url": "https://cafef.vn/bvbank-mot-thap-ky-xay-nen-mot-chu-ky-tang-truong-moi-188260709145837117.chn",
+      "title": "BVBank: Một thập kỷ \"xây nền\", một chu kỳ tăng trưởng mới",
+      "category": "doanh_nghiep",
+      "date_sent": "2026-07-11",
+      "sent_at": "2026-07-11T20:22",
+      "session": "Chiều"
     }
   ],
-  "total_sent": 1102,
-  "last_updated": "2026-07-11T13:11"
+  "total_sent": 1121,
+  "last_updated": "2026-07-11T20:22"
 }
